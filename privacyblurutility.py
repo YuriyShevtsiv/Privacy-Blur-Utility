@@ -110,7 +110,6 @@ class PrivacyShieldApp(ctk.CTk):
         self.listener_thread.start()  # Запускаємо прослуховування гарячої клавіші.
         self.service_active = True  # Позначаємо, що сервіс активний.
         self.set_status(True)  # Оновлюємо індикатор у GUI.
-
     def listen_hotkey(self):
 
         self.hotkey_id = keyboard.add_hotkey(self.hotkey.get().strip().lower(), lambda: self.after(0, self.toggle_overlay))
