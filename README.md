@@ -4,6 +4,7 @@ A lightweight desktop utility that lets you instantly **blur the currently activ
 
 ---
 
+<img width="489" height="320" alt="Screenshot 2026-04-25 183459" src="https://github.com/user-attachments/assets/2d358365-7a28-4cab-9e56-66158ed44401" />
 ## ✨ Features
 
 * 🔒 Blur any active window instantly
