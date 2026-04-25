@@ -4,7 +4,6 @@ import time
 import customtkinter as ctk
 import keyboard
 import pyautogui
-
 import pygetwindow as gw
 import pystray
 from PIL import Image, ImageDraw, ImageFilter, ImageTk
